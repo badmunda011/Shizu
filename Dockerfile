@@ -65,7 +65,7 @@ RUN apt update && apt upgrade -y && \
 RUN pip3 install --upgrade pip setuptools
 
 # Copy Python Requirements to /root/Shizu
-RUN git clone -b shiken https://github.com/TeamShizu/Shizu /root/Shizu
+RUN git clone -b shiken https://github.com/TeamInfinityBots/Shizu /root/Shizu
 WORKDIR /root/Shizu
 
 #Copy config file to /root/Shizu/Shizu
