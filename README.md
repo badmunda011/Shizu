@@ -1,10 +1,10 @@
-# Shizu Based on Python Telegram Bot ![GitHub repo size](https://img.shields.io/github/repo-size/TeamShizu/Shizu?label=Repo%20Size)
+# Shizu Based on Python Telegram Bot ![GitHub repo size](https://img.shields.io/github/repo-size/TeamInfinityBots/Shizu?label=Repo%20Size)
 <p align="leaft">
   <img src="https://telegra.ph/file/8a16bdd88fecbcfc0d6ae.jpg" width='600"'>
 </p>
 # 2 Branches available. this is main brach. swith advaced fr all fetures
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamShizu/Shizu.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamInfinityBots/Shizu.git)
 
 
 ### Video Tutorial:
