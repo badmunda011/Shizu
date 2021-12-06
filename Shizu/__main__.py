@@ -64,7 +64,7 @@ from Shizu.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
 Hello there, I'm Shizu💖
-I'm a Powerful group manager bot With Cool Modules. Made by [Rasiyaa 🇱🇰](t.me/Mr_Rasiyaa)
+I'm a Powerful group manager bot With Cool Modules. Made by [Rasiyaa 🇱🇰](t.me/KingKnight_RG)
 Hit /help to find my list of available commands
  
 """
@@ -73,14 +73,14 @@ buttons = [
     [
         InlineKeyboardButton(text="📢Updates Channel", url="https://t.me/ShizuUpdates"),
         InlineKeyboardButton(
-            text="👥 Support Group", url="https://t.me/ShizuSupport_Official"
+            text="👥 Support Group", url="https://t.me/CozmoSupport_Official"
         ),
     ],
     [
         InlineKeyboardButton(
             text="📜Source", url="https://www.youtube.com/watch?v=fXXEcAkWAFU"
         ),
-        InlineKeyboardButton(text="❔ Help", url="http://t.me/Shizu_herobot?start=help"),
+        InlineKeyboardButton(text="❔ Help", url="http://t.me/TheCozmoBot?start=help"),
     ],
     [
         InlineKeyboardButton(
@@ -90,7 +90,7 @@ buttons = [
     ],
 ]
 
-SHIZU_IMG = " https://telegra.ph/file/89336a96eb696d94558ba.jpg"
+SHIZU_IMG = "https://telegra.ph/file/89336a96eb696d94558ba.jpg"
 
 HELP_STRINGS = f"""
 *Main Commands :* [🤖](https://telegra.ph/file/922a73ff9aca155b23608.jpg)
